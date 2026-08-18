@@ -4,9 +4,9 @@
   Visitors have no on-page controls to change your website.
 */
 const profileConfig = {
-  wordmark: 'NOVA.NET',
-  name: 'NOVA',
-  handle: 'nova.exe · personal portal',
+  wordmark: 'xyjash',
+  name: 'jash',
+  handle: 'jash.xy',
   nowTitle: 'Building little worlds',
   nowSubtitle: 'creative developer · online',
   status: 'Open to interesting things',
